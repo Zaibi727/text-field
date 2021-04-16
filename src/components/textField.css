@@ -1,0 +1,13 @@
+.field{
+  text-align: left;
+  padding:  50px;
+  background-color: lavender;
+}
+.field label{
+    font-size: 20px;
+    font-weight: 500;
+}
+.input{
+    padding: 8px 50px;
+    border: 1px solid lightgray;
+}
